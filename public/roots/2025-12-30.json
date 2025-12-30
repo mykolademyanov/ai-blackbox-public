@@ -1,10 +1,10 @@
 {
   "canonical_run_id": "5ee088c7-b0e2-442f-9ea0-6ea9dafdd39a",
   "canonicalization_version": 1,
-  "chosen_ts_utc": "2025-12-30T12:09:06Z",
+  "chosen_ts_utc": "2025-12-30T12:38:37Z",
   "count": 720,
   "date_utc": "2025-12-30",
-  "exported_ts_utc": "2025-12-30T12:09:06Z",
+  "exported_ts_utc": "2025-12-30T12:38:37Z",
   "hash_algo": "sha256",
   "run_root": "abb1129ca493ce82c9f58c5310fe7bc1e49f35dfc8614ae4b935db2c5b7ffacb",
   "run_ts_utc": "2025-12-30T10:15:51Z"
