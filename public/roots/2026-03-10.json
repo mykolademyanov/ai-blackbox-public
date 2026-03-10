@@ -1,0 +1,11 @@
+{
+  "canonical_run_id": "379a98c5-1261-4e6b-b1ed-4d1e6b1bf24d",
+  "canonicalization_version": 1,
+  "chosen_ts_utc": "2026-03-10T03:39:42Z",
+  "count": 720,
+  "date_utc": "2026-03-10",
+  "exported_ts_utc": "2026-03-10T03:39:42Z",
+  "hash_algo": "sha256",
+  "run_root": "041cf555f230a3d54998b68e8a7ca3313cb76dd303097a048251b1f541f817a0",
+  "run_ts_utc": "2026-03-10T03:27:24Z"
+}
