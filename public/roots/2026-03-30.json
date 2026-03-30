@@ -1,11 +1,11 @@
 {
-  "canonical_run_id": "6527cd80-d1f6-4de4-b1cc-9b00c5061aba",
+  "canonical_run_id": "faca5f38-4519-42c0-9d05-1c5d88cf1692",
   "canonicalization_version": 1,
-  "chosen_ts_utc": "2026-03-30T03:36:55Z",
+  "chosen_ts_utc": "2026-03-30T17:45:19Z",
   "count": 720,
   "date_utc": "2026-03-30",
-  "exported_ts_utc": "2026-03-30T03:36:55Z",
+  "exported_ts_utc": "2026-03-30T17:45:19Z",
   "hash_algo": "sha256",
-  "run_root": "3aa05d6ac43bebd00348924125b8f8ee396109f71da673c12303b115203f9d13",
-  "run_ts_utc": "2026-03-30T03:24:54Z"
+  "run_root": "41be339be68809aa479d458ac05a4f0f1c78c26c32571f67ae7bc52873f9b9da",
+  "run_ts_utc": "2026-03-30T16:47:13Z"
 }
